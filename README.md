@@ -1,10 +1,10 @@
-<h3 align="center">"Coding is the closest thing we have to a superpower. It's the ability to create something out of nothing with just a few keystrokes."</h3>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
+</div>
 
 ###
 
-<div align="left">
-  <img height="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
-</div>
+<h3 align="center">"Coding is the closest thing we have to a superpower. It's the ability to create something out of nothing with just a few keystrokes."</h3>
 
 ###
 
@@ -28,6 +28,38 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HACABHI/HACABHI/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HACABHI/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhinav-sehgal-348930224/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/abhinav_sehgal13/#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="abhinav1007.be21@chitkarauniversity.edu.in" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 ###
